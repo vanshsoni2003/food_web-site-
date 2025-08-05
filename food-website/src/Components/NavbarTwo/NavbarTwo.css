@@ -1,0 +1,32 @@
+.department{
+    padding: 10px 20px;
+}
+
+.navTwo ul li a{
+    padding: 16px 40px;
+}
+.navTwo ul li a:hover{
+    color: var(--color-lime-600);
+}
+.search input{
+    outline: none;
+    width: 100%;
+}
+.cat{
+    padding: 0 20px;
+}
+.call{
+    padding: 20px;
+    border-radius: 50%;
+}
+
+.btn{
+    /* padding: 10px 30px; */
+}
+
+/* Position */
+
+.menu{
+    /* height: 500px; */
+    display: block;
+}

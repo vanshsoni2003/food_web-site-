@@ -1,0 +1,9 @@
+.pr-img{
+    position: relative;
+}
+
+.pr-tt{
+    position: absolute;
+    /* padding: 5px 50px; */
+    bottom: 10px;
+}
